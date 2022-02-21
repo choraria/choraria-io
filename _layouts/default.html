@@ -17,7 +17,7 @@
   <link rel="stylesheet"
     href='{{ "/assets/css/colors-ColorScheme.css?v=" | replace: "ColorScheme", ColorScheme | append: site.github.build_revision | relative_url }}''>
     <link rel="stylesheet" href=' {{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url
-    }}''>
+    }}'>
 
   <link rel="preload" href="{{site.logo | relative_url}}" as="image">
   <!--[if lt IE 9]>
@@ -45,7 +45,7 @@
         <p class="addr"><i class="fa-regular fa-envelope"></i>&nbsp;{{ site.email }}</p>
         {% endif %}
 
-        <p>{{ site.description | default: site.github.project_tagline }}</p>
+        <p>{{ site.sidebar_description | default: site.github.project_tagline }}</p>
 
         {% include sidebar.html %}
 

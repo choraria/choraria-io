@@ -1,13 +1,26 @@
 title: Sourabh Choraria
 logo: /assets/img/logo.jpg
 email: sourabh@choraria.io
-description: 
+url: https://choraria.io
+author:
+  twitter: schoraria911
+twitter:
+  username: schoraria911
+  card: summary
+social:
+  name: Sourabh Choraria
+  links:
+    - https://twitter.com/schoraria911
+    - https://www.linkedin.com/in/choraria/
+    - https://github.com/choraria
+sidebar_description: Spreadsheet nerd,<br />Google Apps Script <a href="https://developers.google.com/community/experts/directory/profile/profile-sourabh-choraria" target="_blank">GDE</a>.<br />♥️ pizzas, automations, cycling, workarounds & documentation.
 google_analytics: UA-108144808-1
 color-scheme: auto
 plugins:
   - jekyll-sitemap
   - jekyll-seo-tag
   - jemoji
+  - jekyll-target-blank
 
 # You can find fonts from https://iconify.design or https://fontawesome.com. Below is just an example illustrating how to use custom icons
 sidebar:

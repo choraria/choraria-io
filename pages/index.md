@@ -1,6 +1,7 @@
 ---
 layout: default
 permalink: /
+title: Sourabh Choraria
 ---
 
 ### My list of posts would go here!
