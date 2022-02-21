@@ -1,14 +1,14 @@
 # frozen_string_literal: true
 
 Gem::Specification.new do |s|
-  s.name          = "jekyll-theme-minimalist"
-  s.version       = "0.1.0"
-  s.license       = "CC0-1.0"
-  s.authors       = ["Bodun Hu", "Steve Smith", "GitHub, Inc."]
-  s.email         = [""]
-  s.homepage      = "https://github.com/BDHU/minimalist"
-  s.summary       = "Minimalist is a Jekyll theme inspired by Minimal"
-
+  s.name          = "minimalist"
+  s.version       = ""
+  s.license       = ""
+  s.authors       = ["Sourabh Choraria"]
+  s.email         = ["sourabh@choraria.io"]
+  s.homepage      = "https://choraria.io"
+  s.summary       = ""
+  
   s.files         = `git ls-files -z`.split("\x0").select do |f|
     f.match(%r{^((_includes|_layouts|_sass|assets)/|(LICENSE|README)((\.(txt|md|markdown)|$)))}i)
   end
