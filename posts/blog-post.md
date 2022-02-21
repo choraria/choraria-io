@@ -1,10 +1,19 @@
 ---
-layout: post
+layout: default
 permalink: /posts/blog-post/
 date: 2022-01-01
 title: Blog Post
 author: Sourabh Choraria
 tags: ["blog", "post"]
 ---
+
+<small>{{ page.date | date: "%-d %B %Y" }}</small>
+<h1>{{ page.title }}</h1>
+
+<p>
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em>, <em>" }}</em></small>
+{% endif %}
+</p>
 
 This is a test posts.
