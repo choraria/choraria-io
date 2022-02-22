@@ -3,7 +3,7 @@ layout: default
 permalink: /milestones/
 ---
 
-<h1>Milestones</h1>
+<h1><a href="/about/">About</a> » Milestones</h1>
 
 ## 2021
 

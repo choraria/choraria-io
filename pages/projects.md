@@ -3,7 +3,7 @@ layout: default
 permalink: /projects/
 ---
 
-<h1>Projects</h1>
+<h1><a href="/about/">About</a> » Projects</h1>
 
 ## 2021
 
