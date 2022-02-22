@@ -19,20 +19,18 @@ Feb-2021: Published [Count von Count](https://workspace.google.com/marketplace/a
 
 [...see all projects](/projects/)
 
-## Milestones
-
-Oct-2021: Enrolled with the [Google Cloud Champion Innovator](https://cloud.google.com/innovators/champions?specialization=workspace&text=Sourabh) program.<br />
-Apr-2020: Got accepted as a Workspace [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-sourabh-choraria) (GDE).<br />
-
-[...see all milestones](/milestones/)
-
 ## Talks
 
 Oct-2020: [Rapid prototyping](https://script.gs/talk-4-rapid-prototyping/) — Fail-fast while building business-first, zero-cost solutions with Apps Script.<br />
 Jul-2020: [Only with Apps Script](https://script.gs/talk-3-only-with-apps-script/).<br />
-May-2020: **Google Apps Script** - An [underdog within the dev ecosystem](https://script.gs/talk-2-google-apps-script-an-underdog-within-the-dev-ecosystem/).<br />
+May-2020: Google Apps Script - An [underdog within the dev ecosystem](https://script.gs/talk-2-google-apps-script-an-underdog-within-the-dev-ecosystem/).<br />
 
 [...see all talks](/talks/)
+
+## Milestones
+
+Oct-2021: Enrolled with the [Google Cloud Champion Innovator](https://cloud.google.com/innovators/champions?specialization=workspace&text=Sourabh) program.<br />
+Apr-2020: Got accepted as a **Workspace** [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-sourabh-choraria) (GDE).<br />
 
 ## Awards
 

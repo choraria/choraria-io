@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /posts/blog-post/
-date: 2022-01-01
+date: 2022-02-02
 title: Blog Post
 author: Sourabh Choraria
 tags: ["blog", "post"]
