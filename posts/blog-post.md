@@ -16,4 +16,6 @@ tags: ["blog", "post"]
 {% endif %}
 </p>
 
-This is a test posts.
+This is a test post.
+
+![Monkey Business](/assets/img/test-blog-post.jpg)
