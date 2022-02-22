@@ -3,7 +3,7 @@ layout: default
 permalink: /about/
 ---
 
-# About
+<h1>About</h1>
 
 Hey 👋&nbsp;&nbsp;I'm Sourabh!
 
