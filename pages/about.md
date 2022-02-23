@@ -32,6 +32,8 @@ May-2020: Google Apps Script - An [underdog within the dev ecosystem](https://sc
 Oct-2021: Enrolled with the [Google Cloud Champion Innovator](https://cloud.google.com/innovators/champions?specialization=workspace&text=Sourabh) program.<br />
 Apr-2020: Got accepted as a **Workspace** [Google Developer Expert](https://developers.google.com/community/experts/directory/profile/profile-sourabh-choraria) (GDE).<br />
 
+[...see all milestones](/milestones/)
+
 ## Awards
 
 Dec-2021: Voted as the person who best represents the value of **Giving** as part of Rows Values Awards.<br />

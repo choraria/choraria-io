@@ -1,9 +1,11 @@
 ---
 layout: default
-permalink: /posts/blog-post/
-date: 2022-02-02
 title: Blog Post
+description: "This is a test blog post."
+image: /assets/img/test-blog-post.jpg
+date: 2022-02-02
 author: Sourabh Choraria
+permalink: /blog-post/
 tags: ["blog", "post"]
 ---
 
