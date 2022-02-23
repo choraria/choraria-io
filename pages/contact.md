@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /contact
+permalink: /contact/
 ---
 
 <h1>Contact</h1>

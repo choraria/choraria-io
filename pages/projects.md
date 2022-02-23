@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /projects
+permalink: /projects/
 ---
 
-<h1><a href="/about">About</a> » Projects</h1>
+<h1><a href="/about/">About</a> » Projects</h1>
 
 ## 2021
 

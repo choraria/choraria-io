@@ -30,10 +30,10 @@ sidebar:
     link: /
   - name: About
     icon: <i class="fa-solid fa-address-card"></i>
-    link: /about
+    link: /about/
   - name: Contact
     icon: <i class="fa-solid fa-at"></i>
-    link: /contact
+    link: /contact/
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
     link: https://twitter.com/schoraria911
