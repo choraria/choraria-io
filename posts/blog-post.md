@@ -20,4 +20,4 @@ tags: ["blog", "post"]
 
 This is a test post.
 
-![Monkey Business](/assets/img/test-blog-post.jpg)
+![Test blog post](/assets/img/test-blog-post.jpg){:loading="lazy"}

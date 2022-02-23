@@ -10,4 +10,4 @@ title: Sourabh Choraria
 
 [Test blog post](/blog-post/)
 
-![Monkey Business](/assets/img/monkey-business.jpg)
+![Monkey Business](/assets/img/monkey-business.jpg){:loading="lazy"}
