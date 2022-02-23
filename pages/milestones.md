@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /milestones/
+permalink: /milestones
 ---
 
-<h1><a href="/about/">About</a> » Milestones</h1>
+<h1><a href="/about">About</a> » Milestones</h1>
 
 ## 2021
 

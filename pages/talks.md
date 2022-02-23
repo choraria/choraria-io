@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /talks/
+permalink: /talks
 ---
 
-<h1><a href="/about/">About</a> » Talks</h1>
+<h1><a href="/about">About</a> » Talks</h1>
 
 ## 2020
 

@@ -1,9 +1,9 @@
 ---
 layout: default
-permalink: /awards/
+permalink: /awards
 ---
 
-<h1><a href="/about/">About</a> » Awards</h1>
+<h1><a href="/about">About</a> » Awards</h1>
 
 ## 2021
 

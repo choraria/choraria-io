@@ -5,7 +5,7 @@ description: "This is a test blog post."
 image: /assets/img/test-blog-post.jpg
 date: 2022-02-02
 author: Sourabh Choraria
-permalink: /blog-post/
+permalink: /blog-post
 tags: ["blog", "post"]
 ---
 
