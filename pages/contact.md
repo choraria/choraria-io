@@ -17,5 +17,6 @@ permalink: /contact/
 - <i class="fa-brands fa-medium"></i> [medium.com/@choraria](https://medium.com/@choraria)
 - <i class="fa-brands fa-dev"></i> [dev.to/choraria](https://dev.to/choraria)
 - <i class="fa-brands fa-product-hunt"></i> [producthunt.com/@choraria](https://www.producthunt.com/@choraria)
+- <i class="fas" style="font-family:Arial, Helvetica, sans-serif">IH</i> [indiehackers.com/choraria](https://www.indiehackers.com/choraria)
 - <i class="fa-brands fa-stack-overflow"></i> [stackoverflow.com](https://stackoverflow.com/users/10713297/sourabh-choraria)
 - <i class="fa-brands fa-youtube"></i> [youtube.com](https://www.youtube.com/channel/UCtiEXGPXHSpy8GNdRkbGq0A)

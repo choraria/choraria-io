@@ -32,7 +32,7 @@ sidebar:
     icon: <i class="fa-solid fa-address-card"></i>
     link: /about/
   - name: Contact
-    icon: <i class="fa-solid fa-tower-broadcast"></i>
+    icon: <i class="fa-solid fa-at"></i>
     link: /contact/
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
