@@ -15,7 +15,7 @@ social:
     - https://github.com/choraria
 description: Weblog
 sidebar_description: Spreadsheet nerd, Google Apps Script <a href="https://developers.google.com/community/experts/directory/profile/profile-sourabh-choraria" target="_blank">GDE</a>.<br />♥️ pizzas, automations, cycling, workarounds & documentation.
-google_analytics: UA-108144808-1
+google_analytics: UA-221360728-1
 color-scheme: auto
 plugins:
   - jekyll-sitemap
