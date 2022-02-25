@@ -3,14 +3,14 @@ logo: /assets/img/logo.jpg
 email: sourabh@choraria.io
 url: https://choraria.io
 author:
-  twitter: schoraria911
+  twitter: choraria
 twitter:
-  username: schoraria911
+  username: choraria
   card: summary
 social:
   name: Sourabh Choraria
   links:
-    - https://twitter.com/schoraria911
+    - https://twitter.com/choraria
     - https://www.linkedin.com/in/choraria/
     - https://github.com/choraria
 description: Weblog
@@ -36,7 +36,7 @@ sidebar:
     link: /contact/
   - name: Twitter
     icon: <i class="fa-brands fa-twitter"></i>
-    link: https://twitter.com/schoraria911
+    link: https://twitter.com/choraria
 
 github: [metadata]
 favicon: true

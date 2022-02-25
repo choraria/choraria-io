@@ -7,7 +7,7 @@ permalink: /contact/
 
 - <i class="fa-regular fa-envelope"></i> [sourabh@choraria.io](mailto:sourabh@choraria.io)
 - <i class="fa-brands fa-telegram"></i> [t.me/choraria](https://t.me/choraria)
-- <i class="fa-brands fa-twitter"></i> [twitter.com/schoraria911](https://twitter.com/schoraria911)
+- <i class="fa-brands fa-twitter"></i> [twitter.com/choraria](https://twitter.com/choraria)
 - <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/choraria](https://www.linkedin.com/in/choraria/)
 
 ## Other channels
