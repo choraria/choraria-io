@@ -8,6 +8,9 @@ title: Sourabh Choraria
 
 ⏳&nbsp;&nbsp;This space is still a work in progress, but do keep a lookout while I chronicle my ramblings.
 
-[Test blog post](/blog-post/)
+## 2022
+
+- [Launching stk.so — create short URLs for Stack Overflow profiles](/launching-stk-so/)
+- [Test blog post](/blog-post/)
 
 ![Monkey Business](/assets/img/monkey-business.jpg){:loading="lazy"}

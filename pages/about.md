@@ -13,9 +13,9 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
+Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.<br />
+Nov-2021: Started building [socials.so](https://socials.so/) — an API to lookup social media links connected to a domain.<br />
 Oct-2021: Launched [pptr.io](https://pptr.io/) — a Puppeteer-as-a-Service API.<br />
-Jul-2021: Open-sourced [validator.gs](http://validator.gs) — an Apps Script string validation library.<br />
-Feb-2021: Published [Count von Count](https://workspace.google.com/marketplace/app/count_von_count/222600962484) — a global Workspace counter Add-on.<br />
 
 [...see all projects](/projects/)
 
