@@ -13,9 +13,9 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
+Apr-2022: Published [Webhooks for Sheets](https://workspace.google.com/marketplace/app/webhooks_for_sheets/860288437469) add-on & launched it on [Product Hunt](https://www.producthunt.com/posts/webhooks-for-sheets)<br />
 Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.<br />
 Nov-2021: Started building [socials.so](https://socials.so/) — an API to lookup social media links connected to a domain.<br />
-Oct-2021: Launched [pptr.io](https://pptr.io/) — a Puppeteer-as-a-Service API.<br />
 
 [...see all projects](/projects/)
 
