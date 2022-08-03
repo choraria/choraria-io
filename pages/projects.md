@@ -7,6 +7,7 @@ permalink: /projects/
 
 ## 2022
 
+- Jul-2022: Launched **Twitter for Google Chat** – a [Chat app built using Apps Script](https://script.gs/introducing-twitter-for-google-chat-a-chat-app-built-using-apps-script/)
 - Apr-2022: Published the [Webhooks for Sheets](https://workspace.google.com/marketplace/app/webhooks_for_sheets/860288437469) Workspace add-on and launched it on [Product Hunt](https://www.producthunt.com/posts/webhooks-for-sheets)
 - Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.
 
