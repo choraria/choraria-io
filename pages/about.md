@@ -13,7 +13,7 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
-Jul-2022: Launched **Twitter for Google Chat** – a [Chat app built using Apps Script](https://script.gs/introducing-twitter-for-google-chat-a-chat-app-built-using-apps-script/)
+Jul-2022: Launched **TwiLinks** – a [Chat app built using Apps Script](https://script.gs/introducing-twilinks-a-chat-app-built-using-apps-script/)
 Apr-2022: Published [Webhooks for Sheets](https://workspace.google.com/marketplace/app/webhooks_for_sheets/860288437469) add-on & launched it on [Product Hunt](https://www.producthunt.com/posts/webhooks-for-sheets)<br />
 Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.<br />
 
