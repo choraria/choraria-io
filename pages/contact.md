@@ -5,7 +5,8 @@ permalink: /contact/
 
 <h1>Contact</h1>
 
-- <i class="fa-regular fa-envelope"></i> [sourabh@choraria.io](mailto:sourabh@choraria.io)
+- <i class="fa-regular fa-envelope"></i> [sourabh@choraria.io](mailto:sourabh@choraria.io) (General)
+    - <i class="fa-regular fa-envelope"></i> [code@script.gs](mailto:code@script.gs) (all things Apps Script)
 - <i class="fa-brands fa-telegram"></i> [t.me/choraria](https://t.me/choraria)
 - <i class="fa-brands fa-twitter"></i> [twitter.com/choraria](https://twitter.com/choraria)
 - <i class="fa-brands fa-linkedin"></i> [linkedin.com/in/choraria](https://www.linkedin.com/in/choraria/)

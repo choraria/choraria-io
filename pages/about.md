@@ -7,7 +7,7 @@ permalink: /about/
 
 Hey 👋&nbsp;&nbsp;I'm Sourabh — your typical Spreadsheet nerd 🤓
 
-I work at [Rows](https://rows.com) and in my free time, explore ways to connect different tools (mostly with Apps Script » Google Sheets, Data Studio, Chat App etc.), learn about a new technologies or just built stuff that no one ends-up using anyway (ex: my obsession with **Puppeteer** led me to build & sunset [socials.so](https://socials.so/) 🤦🏽‍♀️).
+I work with [Coherent](https://coherent.global/)'s [Sparklite](https://sparklite.io/) team and in my free time, explore ways to connect different tools (mostly with Apps Script » Google Sheets, Data Studio, Chat App etc.), learn about a new technologies or just built stuff that no one ends-up using anyway (ex: my obsession with **Puppeteer** led me to build & sunset [socials.so](https://socials.so/) 🤦🏽‍♀️).
 
 If you're here to explore more about **Google Apps Script**, you may want to check out my dedicated space for that over at [script.gs](https://script.gs).
 
