@@ -7,6 +7,8 @@ permalink: /projects/
 
 ## 2022
 
+- Nov-2022: Published [Custom Functions](https://workspace.google.com/marketplace/app/custom_functions/3868008326) (for Google Sheets) Workspace add-on
+  - Created the [open-source repo](https://github.com/custom-functions/google-sheets) to host the functions
 - Jul-2022: Launched **TwiLinks** – a [Chat app built using Apps Script](https://script.gs/introducing-twilinks-a-chat-app-built-using-apps-script/)
 - Apr-2022: Published the [Webhooks for Sheets](https://workspace.google.com/marketplace/app/webhooks_for_sheets/860288437469) Workspace add-on and launched it on [Product Hunt](https://www.producthunt.com/posts/webhooks-for-sheets)
 - Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.
