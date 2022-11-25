@@ -13,9 +13,9 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
+Nov-2022: Published [Custom Functions](https://workspace.google.com/marketplace/app/custom_functions/3868008326) (for Google Sheets) Workspace add-on<br />
 Jul-2022: Launched **TwiLinks** – a [Chat app built using Apps Script](https://script.gs/introducing-twilinks-a-chat-app-built-using-apps-script/)<br />
 Apr-2022: Published [Webhooks for Sheets](https://workspace.google.com/marketplace/app/webhooks_for_sheets/860288437469) add-on & launched it on [Product Hunt](https://www.producthunt.com/posts/webhooks-for-sheets)<br />
-Feb-2022: Launched [stk.so](https://stk.so/) — Customizable, short URLs for Stack Overflow profiles.<br />
 
 [...see all projects](/projects/)
 
