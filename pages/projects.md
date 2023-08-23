@@ -7,7 +7,7 @@ permalink: /projects/
 
 ## 2023
 
-- Jun-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips
+- Aug-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips
 
 ## 2022
 
