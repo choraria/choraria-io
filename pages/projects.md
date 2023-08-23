@@ -5,6 +5,10 @@ permalink: /projects/
 
 <h1><a href="/about/">About</a> » Projects</h1>
 
+## 2023
+
+- Jun-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips
+
 ## 2022
 
 - Nov-2022: Published [Custom Functions](https://workspace.google.com/marketplace/app/custom_functions/3868008326) (for Google Sheets) Workspace add-on + created [this open-source repo](https://github.com/custom-functions/google-sheets) to host the functions
