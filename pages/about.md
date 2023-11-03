@@ -13,7 +13,7 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
-Nov-2023: Set-up branded shortlinks for DevFest chapters across the globe (ex: `devfe.st/bangalore`)
+Nov-2023: Set-up branded shortlinks for DevFest chapters across the globe (ex: `devfe.st/bangalore`)<br />
 Aug-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips<br />
 Nov-2022: Published [Custom Functions](https://workspace.google.com/marketplace/app/custom_functions/3868008326) (for Google Sheets) Workspace add-on<br />
 
