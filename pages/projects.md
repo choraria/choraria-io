@@ -7,6 +7,7 @@ permalink: /projects/
 
 ## 2023
 
+- Nov-2023: Set-up branded shortlinks for DevFest chapters across the globe (ex: `devfe.st/bangalore`)
 - Aug-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips
 
 ## 2022
