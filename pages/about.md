@@ -7,15 +7,14 @@ permalink: /about/
 
 Hey 👋&nbsp;&nbsp;I'm Sourabh — your typical Spreadsheet nerd 🤓
 
-I work with [Coherent](https://coherent.global/)'s [Sparklite](https://sparklite.io/) team and in my free time, explore ways to connect different tools (mostly with Apps Script » Google Sheets, Data Studio, Chat App etc.), learn about a new technologies or just built stuff that no one ends-up using anyway (ex: my obsession with **Puppeteer** led me to build & sunset [socials.so](https://socials.so/) 🤦🏽‍♀️).
+I work at [Rows](https://rows.com/product) as a **Solutions Architect** and in my free time, explore ways to connect different tools, learn about a new technologies or just built stuff that no one ends-up using anyway (ex: my obsession with **Puppeteer** led me to build & sunset [socials.so](https://socials.so/) 🤦🏽‍♀️).
 
 If you're here to explore more about **Google Apps Script**, you may want to check out my dedicated space for that over at [script.gs](https://script.gs).
 
 ## Projects
 
-Nov-2023: Set-up branded shortlinks for DevFest chapters across the globe (ex: `devfe.st/bangalore`)<br />
-Aug-2023: Launched [Link Previews](https://workspace.google.com/marketplace/app/link_previews/215545697761) on [Product Hunt](https://www.producthunt.com/posts/link-previews) — a Google Docs add-on to turn links/URLs into smart chips<br />
-Nov-2022: Published [Custom Functions](https://workspace.google.com/marketplace/app/custom_functions/3868008326) (for Google Sheets) Workspace add-on<br />
+Apr-2025: Re-launched [devfe.st](https://devfe.st/) — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL.<br />
+Mar-2025: Launched [Hooksy](https://hooksy.co/) — Not-a-swiss-knife of webhook forwarding.<br />
 
 [...see all projects](/projects/)
 

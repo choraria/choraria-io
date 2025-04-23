@@ -5,6 +5,15 @@ permalink: /projects/
 
 <h1><a href="/about/">About</a> » Projects</h1>
 
+## 2025
+
+- Apr-2025: Re-launched [devfe.st](https://devfe.st/) — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL
+- Mar-2025: Launched [Hooksy](https://hooksy.co/) — Not-a-swiss-knife of webhook forwarding
+
+## 2024
+
+![Sloth mode: on](/assets/img/sloth-mode-on.jpg){:loading="lazy"}
+
 ## 2023
 
 - Nov-2023: Set-up branded shortlinks for DevFest chapters across the globe (ex: `devfe.st/bangalore`)
