@@ -4,9 +4,8 @@ source "https://rubygems.org"
 
 gemspec
 
-# Use system libraries for Nokogiri
-gem "nokogiri", "1.15.4", require: false
-gem "pkg-config", "~> 1.5"
+# Explicitly use the precompiled native gem for Nokogiri
+gem "nokogiri", "1.15.4"
 
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"

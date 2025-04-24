@@ -2,14 +2,5 @@
   "buildCommand": "./build.sh",
   "installCommand": "bundle install",
   "framework": "jekyll",
-  "outputDirectory": "_site",
-  "build": {
-    "env": {
-      "BUNDLE_FORCE_RUBY_PLATFORM": "true",
-      "NOKOGIRI_USE_SYSTEM_LIBRARIES": "true",
-      "PKG_CONFIG_PATH": "/usr/lib/x86_64-linux-gnu/pkgconfig:/usr/lib/pkgconfig",
-      "LDFLAGS": "-L/usr/lib/x86_64-linux-gnu",
-      "CPPFLAGS": "-I/usr/include/libxml2"
-    }
-  }
+  "outputDirectory": "_site"
 } 
