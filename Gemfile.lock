@@ -107,7 +107,7 @@ GEM
     mercenary (0.4.0)
     mini_portile2 (2.8.8)
     minitest (5.25.5)
-    nokogiri (1.15.7)
+    nokogiri (1.15.4)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     parallel (1.27.0)
@@ -189,7 +189,7 @@ DEPENDENCIES
   jemoji
   kramdown-parser-gfm
   minimalist!
-  nokogiri (~> 1.15.4)
+  nokogiri (= 1.15.4)
   pkg-config (~> 1.5)
   rubocop-github (~> 0.16)
   w3c_validators (~> 1.3)
