@@ -4,8 +4,8 @@ source "https://rubygems.org"
 
 gemspec
 
-# Use pre-compiled Nokogiri
-gem "nokogiri", "~> 1.15.4", force_ruby_platform: true
+# Use system libraries for Nokogiri
+gem "nokogiri", "~> 1.15.4", require: false, force_ruby_platform: true, install_if: Gem.win_platform?
 
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"

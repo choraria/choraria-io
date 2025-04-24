@@ -1,14 +1,12 @@
 {
-  "buildCommand": "bundle config build.nokogiri --use-system-libraries && bundle install && jekyll build",
+  "buildCommand": "apt-get update && apt-get install -y build-essential libxml2-dev libxslt-dev && bundle config build.nokogiri --use-system-libraries && bundle install && jekyll build",
   "installCommand": "bundle install",
   "framework": "jekyll",
   "outputDirectory": "_site",
   "build": {
     "env": {
-      "BUNDLE_FORCE_RUBY_PLATFORM": "true"
+      "BUNDLE_FORCE_RUBY_PLATFORM": "true",
+      "NOKOGIRI_USE_SYSTEM_LIBRARIES": "true"
     }
-  },
-  "engines": {
-    "node": "20.x"
   }
 } 
