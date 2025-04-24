@@ -1,5 +1,5 @@
 {
-  "buildCommand": "apt-get update && apt-get install -y pkg-config build-essential libxml2-dev libxslt-dev zlib1g-dev && bundle config build.nokogiri --use-system-libraries && bundle install && jekyll build",
+  "buildCommand": "apt-get update && apt-get install -y pkg-config build-essential libxml2-dev libxslt1-dev zlib1g-dev && export PKG_CONFIG_PATH=/usr/lib/x86_64-linux-gnu/pkgconfig:/usr/lib/pkgconfig && export NOKOGIRI_USE_SYSTEM_LIBRARIES=true && bundle config build.nokogiri \"--use-system-libraries --with-xml2-include=/usr/include/libxml2 --with-xml2-lib=/usr/lib/x86_64-linux-gnu\" && bundle install && jekyll build",
   "installCommand": "bundle install",
   "framework": "jekyll",
   "outputDirectory": "_site",
@@ -7,7 +7,9 @@
     "env": {
       "BUNDLE_FORCE_RUBY_PLATFORM": "true",
       "NOKOGIRI_USE_SYSTEM_LIBRARIES": "true",
-      "PKG_CONFIG_PATH": "/usr/lib/x86_64-linux-gnu/pkgconfig:/usr/lib/pkgconfig"
+      "PKG_CONFIG_PATH": "/usr/lib/x86_64-linux-gnu/pkgconfig:/usr/lib/pkgconfig",
+      "LDFLAGS": "-L/usr/lib/x86_64-linux-gnu",
+      "CPPFLAGS": "-I/usr/include/libxml2"
     }
   }
 } 
