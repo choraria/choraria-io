@@ -4,8 +4,8 @@ source "https://rubygems.org"
 
 gemspec
 
-# Force Nokogiri to use Ruby platform
-gem "nokogiri", force_ruby_platform: true
+# Explicitly specify Nokogiri version
+gem "nokogiri", "~> 1.15.4"
 
 gem "jekyll-seo-tag"
 gem "jekyll-sitemap"
