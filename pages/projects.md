@@ -7,6 +7,7 @@ permalink: /projects/
 
 ## 2025
 
+- Jun-2025: Building [GIF.new](https://www.gif.new/)
 - Apr-2025: Re-launched [devfe.st](https://devfe.st/) — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL
 - Mar-2025: Launched [Hooksy](https://hooksy.co/) — Not-a-swiss-knife of webhook forwarding
 
