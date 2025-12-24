@@ -13,9 +13,9 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
+Dec-2025: Launched [username.dev](https://www.username.dev/) — an API to block profanity, protect brands and flag premium handles.<br />
 Jun-2025: Building [GIF.new](https://www.gif.new/)<br />
 Apr-2025: Re-launched [devfe.st](https://devfe.st/) — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL.<br />
-Mar-2025: Launched [Hooksy](https://hooksy.co/) — Not-a-swiss-knife of webhook forwarding.<br />
 
 [...see all projects](/projects/)
 
