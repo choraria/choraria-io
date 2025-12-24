@@ -29,7 +29,7 @@ When building [this site](/contact), I realised that Stack Overflow seemed to be
 
 ![stk-so-idea](/posts/launching-stk-so/stk-so-idea.png){:loading="lazy"}
 
-After a quick google search, landed on [this post](https://meta.stackoverflow.com/q/254376/10713297) where it seemed like I wasn't the only one to experience this mild annoyance.
+After a quick google search, landed on [this post](https://meta.stackoverflow.com/q/254376/10713297){:target="_blank"} where it seemed like I wasn't the only one to experience this mild annoyance.
 
 **Enter**: `https://stk.so`
 
@@ -37,7 +37,7 @@ After a quick google search, landed on [this post](https://meta.stackoverflow.co
 
 The app is intentionally designed to request user authorization as that avoids the issue of random people generating short URLs for profiles that don't belong to them.
 
-Since that's its only purpose, I'm **NOT** requesting any scopes when using the [implicit flow](https://api.stackexchange.com/docs/authentication) —
+Since that's its only purpose, I'm **NOT** requesting any scopes when using the [implicit flow](https://api.stackexchange.com/docs/authentication){:target="_blank"} —
 
 ![stk-so-no-scopes](/posts/launching-stk-so/stk-so-no-scopes.png){:loading="lazy"}
 
