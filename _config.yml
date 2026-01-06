@@ -30,6 +30,9 @@ sidebar:
   - name: About
     icon: <i class="fa-solid fa-address-card"></i>
     link: /about/
+  - name: Projects
+    icon: <i class="fa-solid fa-code"></i>
+    link: /projects/
   - name: Contact
     icon: <i class="fa-solid fa-at"></i>
     link: /contact/

@@ -7,6 +7,10 @@ permalink: /projects/
 
 ## 2025
 
+- Jan-2026: Shipped [Bulletin](https://bulletin.so){:target="_blank"} to hopefully someday be the front page for early products<br />
+
+## 2025
+
 - Dec-2025: Launched [username.dev](https://www.username.dev/){:target="_blank"} — an API to block profanity, protect brands and flag premium handles.
 - Jun-2025: Building [GIF.new](https://www.gif.new/){:target="_blank"}
 - Apr-2025: Re-launched [devfe.st](https://devfe.st/){:target="_blank"} — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL

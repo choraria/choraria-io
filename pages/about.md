@@ -13,9 +13,9 @@ If you're here to explore more about **Google Apps Script**, you may want to che
 
 ## Projects
 
+Jan-2026: Shipped [Bulletin](https://bulletin.so){:target="_blank"} to hopefully someday be the front page for early products<br />
 Dec-2025: Launched [username.dev](https://www.username.dev/){:target="_blank"} — an API to block profanity, protect brands and flag premium handles.<br />
 Jun-2025: Building [GIF.new](https://www.gif.new/){:target="_blank"}<br />
-Apr-2025: Re-launched [devfe.st](https://devfe.st/){:target="_blank"} — added a landing page with map and table view + ability for anyone to request an update of the DevFest URL.<br />
 
 [...see all projects](/projects/)
 
