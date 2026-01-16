@@ -5,7 +5,7 @@ permalink: /projects/
 
 <h1><a href="/about/">About</a> » Projects</h1>
 
-## 2025
+## 2026
 
 - Jan-2026: Shipped [Bulletin](https://bulletin.so){:target="_blank"} to hopefully someday be the front page for early products<br />
 
